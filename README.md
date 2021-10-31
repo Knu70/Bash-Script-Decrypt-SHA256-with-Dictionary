@@ -1,4 +1,4 @@
-# Script-Decrypt-SHA256-with-Dictionary
+# Bash Script Decrypt SHA256 with Dictionary
 Script en Bash que recibe dos argumentos:
 
 <ul>
